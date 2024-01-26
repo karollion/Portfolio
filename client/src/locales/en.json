@@ -77,9 +77,13 @@
     "project":
       {
         "4": {
-        "title": "Online shop Bazar",
+        "title": "Bazar",
         "about": "A website for a furniture store that I created with my team. I have completely created the 'promoted' and 'feedback' sections."
         },
+        "5": {
+          "title": "Choco-Shop",
+          "about": "Full-stack application for an online store selling chocolate products and other sweets. Shopping can be done as a guest or as a logged in user. On the home page, you can sort products by categories, and you can also search for a specific product on the search page. In the cart, you can change the number of pieces, size and add comments to the ordered product."
+          },
         "3": {
           "title": "Music Service",
           "about": "Online music site. On the main page there are all songs, there is also a filtering of songs by genre. The search tab allows you to find songs by genre, title, author. The last tab, discover, randomizes a song from the genre of the most played songs."

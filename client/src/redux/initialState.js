@@ -151,6 +151,49 @@ const initialState = {
       link: 'https://wdp-2309-01.netlify.app/',
     },
     {
+      id: "5",
+      tech: [
+        {
+          id: 1,
+          name: 'HTML',
+        },
+        {
+          id: 2,
+          name: 'CSS',
+        },
+        {
+          id: 3,
+          name: 'JavaScript',
+        },
+        {
+          id: 4,
+          name: 'React',
+        },
+        {
+          id: 5,
+          name: 'Redux',
+        },
+        {
+          id: 6,
+          name: 'Node.js',
+        },
+        {
+          id: 7,
+          name: 'Nest.js',
+        },
+        {
+          id: 8,
+          name: 'Prisma',
+        },
+        {
+          id: 9,
+          name: 'MySQL',
+        },
+      ],
+      img: 'choco',
+      link: 'https://choco-shop.onrender.com/',
+    },
+    {
       id: 3,
       tech: [
         {
