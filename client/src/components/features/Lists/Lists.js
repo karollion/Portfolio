@@ -18,7 +18,7 @@ const Lists = props => {
     <div className={styles.container}>
       <div 
         data-aos="fade-right" 
-        data-aos-delay="500"
+        data-aos-delay="150"
         data-aos-once="true"
         className={styles.left}>
         <FrameSectLeft>

@@ -13,7 +13,7 @@ const Project = props => {
   return (
     <div 
     data-aos="fade-right" 
-    data-aos-delay="500"
+    data-aos-delay="150"
     data-aos-once="true"
     className={styles.container}>
       <FrameSectLeft>

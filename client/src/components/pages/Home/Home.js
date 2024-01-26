@@ -18,7 +18,7 @@ const Home = () => {
       <div className={styles.home}>
         <div 
           data-aos="fade-right" 
-          data-aos-delay="500"
+          data-aos-delay="150"
           data-aos-once="true"
           className={styles.imageContainer}>
           <FrameSectLeft>
@@ -39,7 +39,7 @@ const Home = () => {
         </div>
         <div 
           data-aos="fade-left" 
-          data-aos-delay="500"
+          data-aos-delay="150"
           data-aos-once="true"
           className={styles.info}
           >
